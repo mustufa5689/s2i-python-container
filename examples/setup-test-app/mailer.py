@@ -4,7 +4,7 @@ from email.mime.text import MIMEText
 mail_content = '''Hello,
 This is a simple mail. There is only text, no attachments are there The mail is sent using Python SMTP library.
 Thank You
-' ' '
+'''
 #The mail addresses and password
 sender_address = 'mustufa5689@gmail.com'
 sender_pass = 'mussidon09'
